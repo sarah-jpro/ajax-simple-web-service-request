@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Karla:wght@200&display=swap');
+
+ html, body {
+    margin: 0;
+    padding: 0;
+    background-image: url(mer-plage-cocotier.jpg);
+    background-attachment:fixed;
+    background-size: cover;
+    
+    }
+.citation {
+    color: rgb(238, 124, 17);
+    padding-top: 230px;
+    position: absolute;
+    left: 470px; 
+    font-family: 'Caveat', cursive;
+}
+#quote  {
+    font-size: 30px;
+}
+.title {
+    font: size 25px; 
+    color: rgb(78, 138, 10);
+}
+#photo {
+    border-radius: 150px;
+    border: 2px solid rgb(241, 238, 16);
+    height: 140px;
+    width: 140px;
+    position: absolute;
+    left: 300px;
+    
+}

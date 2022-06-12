@@ -10,7 +10,7 @@
 
 * Time necessary : 1 day
 * Work mode : Solo
-* Deployment stragegy : GitHub Page
+* Deployment strategy : GitHub Page
 
 ## Learning Objectives
 
